@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_Syncronization", "Time_Syncronization\Time_Syncronization.csproj", "{3B00B694-5050-4B9D-8380-A68CE3530AA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B00B694-5050-4B9D-8380-A68CE3530AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B00B694-5050-4B9D-8380-A68CE3530AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B00B694-5050-4B9D-8380-A68CE3530AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B00B694-5050-4B9D-8380-A68CE3530AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC7C0DD-B288-4A93-936E-FCC526DC5C98}
+	EndGlobalSection
+EndGlobal
